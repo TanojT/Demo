@@ -33,7 +33,7 @@ public class App {
                     writer.write(s+",");
                 }
             }
-            writer.write("UID\n");
+            writer.write("UID,Epoch Date\n");
             int count=1;
             while ((line = reader.readLine()) != null) {
                 arr = line.split(",");
@@ -70,7 +70,11 @@ public class App {
                     uid+=userid+",";
 
                 }
-                writer.write(userid+",\n");
+                writer.write(userid+",");
+                dayformat=new SimpleDateFormat("dd-mm-yyyy");
+                day=dayformat.parse(doj);
+                doj=String.format("%ts", day);
+                writer.write(doj+",\n");
             }
             writer.close();
         } catch (Exception e) {
