@@ -1,0 +1,13 @@
+ID,First Name,Last Name,Gender,Education,Date Of Joining,COntractor,Status,Phone Number,Designation
+1,Denys,Keetch,Female,Far Eastern State University,08.09.2015,TRUE,0,697-557-0275,Teacher
+2,Emiline,Hattoe,Female,Le Moyne College,21.03.2017,FALSE,1,660-534-9549,Senior Editor
+3,Pris,Phythean,Female,Canterbury Christ Church University,02.04.2008,FALSE,0,334-612-6903,Nurse
+4,Lilias,Wrist,Female,University of Piraeus,23.12.2020,TRUE,1,859-746-0777,Sales Representative
+5,Eustace,Castro,Male,Selangor Islamic University College,19.01.2016,FALSE,0,473-337-7833,Operator
+6,Witty,Bindon,Male,Universidade Catolica Portuguesa,26.11.2019,TRUE,1,882-333-5119,Mechanical Systems Engineer
+7,Rick,Iston,Male,Siebold University of Nagasaki,13.04.2019,TRUE,0,118-470-0398,Cost Accountant
+8,Rik,Tuxell,Male,Standford Online University,29.08.2012,FALSE,0,526-288-7053,Automation Specialist I
+9,Timmie,Gutowska,Female,Universidade de Santo Amaro,20.03.2009,TRUE,1,501-866-0426,Civil Engineer
+10,Park,MacCarrick,Male,Swinburne University of Technology,11.02.2012,FALSE,1,379-408-2194,Geologist III
+11,Pranathi,Vangala,Female,Canterbury Christ Church University,02.04.2008,FALSE,0,334-612-6903,Nurse
+12,Priyanka ,Vangala,Female,University of Piraeus,23.12.2020,TRUE,1,859-746-0777,Sales Representative
